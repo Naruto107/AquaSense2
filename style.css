@@ -1,0 +1,6 @@
+.separation {
+    height: 7px;
+    background-color: rgb(130, 129, 129);
+    position: relative;
+    z-index: 20;
+}
